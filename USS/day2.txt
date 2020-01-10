@@ -1,0 +1,18 @@
+write a C program to display prime numbers from 1 to 300
+wap to check whether number is armstrong number or not
+wap to check whether number is perfect number or not
+wap to calculate sum of digits of a given number
+wap to find frequency of each digit in a given integer
+factorial of a number
+fibonacci series upto n terms
+palindrome or not
+wap switch based program to read the number and the operation which he wants to do on that number, square of cube
+
+
+#include <stdio.h>
+
+int main()
+{
+	int a;
+	scanf("%d", &a);
+}

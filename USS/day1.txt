@@ -1,0 +1,14 @@
+26/12/19
+-----------------
+new will allocate memory for the object 
+new constructor will allocate some locati/on for an object and create it
+object reference variable
+constructor is a special method whose name is similar to class name
+it is used to initialized varibles in class
+constructor constructs the object
+new keyword allocate memory for the object
+hence new and constructor construct the object
+we define object reference if we want to read object contents
+if constructor is not present in a class then compiler adds the constructor
+local variable must be initialized before its use
+whenever function gives some value we should save that value in variable

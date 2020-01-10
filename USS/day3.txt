@@ -1,0 +1,14 @@
+class is a block where we group variables and functions together;
+if in c++ each variable is declared without using any access modifiers, then it becomes private variable;
+
+function overloading means having multiple functions with same name but different argument;
+
+it is called compile time polymorphism as compiler binds method call to method definition based on argument;
+
+it is static binding/early binding as compiler binds method call to method definition based on arguments;
+
+inheritance: it is the process by which parent class members, gets available to child class members;
+when we create child class object, we should initialize variables of parents and child both;
+hence parent class constructor should be called from child class constructor; (implicitely/explicitely)
+
+private members are not inherited
